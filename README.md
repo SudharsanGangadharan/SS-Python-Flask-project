@@ -1,4 +1,3 @@
-# SS-Python-Flask-project
 # Python Flask Web App 
 
 ## Setup & Installation
